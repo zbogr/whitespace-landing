@@ -1,3 +1,3 @@
 ## Live Demo
 
-[Visit the website](ws-landing.netlify.app))
+[Visit the website](ws-landing.netlify.app)
